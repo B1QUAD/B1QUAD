@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there, I'm [redacted]. 
+Like many other users of this fantastic website, I enjoy making all sorts of hardware and software projects.
 <!--
 **B1QUAD/B1QUAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
