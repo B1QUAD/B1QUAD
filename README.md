@@ -6,4 +6,4 @@ Note: I'd love to share more of my projects but unfortunately for reasons of aca
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=b1quad&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1quad&show_icons=true&theme=dark&hide=html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1quad&show_icons=true&theme=dark&hide=html&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
